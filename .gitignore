@@ -1,4 +1,5 @@
 # Project-specific
+.Learn/
 .worktrees/
 .worktree/
 .assets
